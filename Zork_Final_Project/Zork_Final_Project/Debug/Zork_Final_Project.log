@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jesse owens\desktop\github programs\zork_final_project\zork_final_project\main.cpp(517): warning C4715: 'Player::gameBeaten': not all control paths return a value
+  Zork_Final_Project.vcxproj -> C:\Users\Jesse Owens\Desktop\Github Programs\Zork_Final_Project\Debug\Zork_Final_Project.exe
+  Zork_Final_Project.vcxproj -> C:\Users\Jesse Owens\Desktop\Github Programs\Zork_Final_Project\Debug\Zork_Final_Project.pdb (Full PDB)
